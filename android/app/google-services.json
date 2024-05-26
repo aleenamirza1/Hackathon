@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974276423495",
+    "project_id": "hackathon-2e04c",
+    "storage_bucket": "hackathon-2e04c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974276423495:android:62e37905a6af724b8c6662",
+        "android_client_info": {
+          "package_name": "com.example.plantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hF1uCiUwDDEy_3Rp-U4dywxqwO4Xk0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
